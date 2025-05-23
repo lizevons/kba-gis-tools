@@ -12,7 +12,7 @@ The model should then be available in your toolbox under the `Models` tab whenev
 
 ## Tool descriptions and use instructions
 
-You can find descriptions of what each tool is doing and how to use them in the wiki.
+You can find descriptions of what each tool is doing and how to use them in the [wiki](https://github.com/lizevons/kba-gis-tools/wiki).
 
 ## Comment, contribute or get help
 

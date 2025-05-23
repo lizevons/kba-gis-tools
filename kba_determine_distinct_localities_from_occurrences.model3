@@ -794,7 +794,7 @@
     </Option>
     <Option name="speciesidentifier" type="Map">
       <Option name="allow_multiple" value="false" type="bool"/>
-      <Option name="data_type" value="-1" type="int"/>
+      <Option name="data_type" value="1" type="int"/>
       <Option name="default" type="invalid"/>
       <Option name="defaultGui" type="invalid"/>
       <Option name="default_to_all_fields" value="false" type="bool"/>
